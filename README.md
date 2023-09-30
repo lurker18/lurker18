@@ -17,3 +17,4 @@
 
 ## 💻 PROGRAMMING LANG
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![OracleSQL[(https://img.shields.io/badge/oracle-#F80000.svg?&style=for-the-badge&logo=OracleDB&logoColor=#c20808)
