@@ -3,17 +3,17 @@
 - Email: kim_gunil_94@yonsei.ac.kr    
 
 ## 🔭 CURRENT POSITION
-- >>> Ph.D. Student / Graduate School of Information, Yonsei University, Seoul, South Korea
+-  Ph.D. Student / Graduate School of Information, Yonsei University, Seoul, South Korea
 
 ## 🌱 RESEARCH INTEREST
--	>>> Natural Language Processing
--	>>> Biomedical Text Analysis
--	>>> Multimodal AI
--	>>> Efficient AI
+-	 Natural Language Processing
+-	 Biomedical Text Analysis
+-	 Multimodal AI
+-	 Efficient AI
 
 ## 💬 EDUCATION
-- >>>	M.S., Business Big Data Analysis, Yonsei Univ., South Korea
-- >>>	B.S., Business Administration & Economics (Double Major), Yonsei University, South Korea
+- 	M.S., Business Big Data Analysis, Yonsei Univ., South Korea
+- 	B.S., Business Administration & Economics (Double Major), Yonsei University, South Korea
 
 <!--
 **lurker18/lurker18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
