@@ -18,7 +18,7 @@
 - Beakcheol Jang, Yeongha Kim, Gun Il Kim, and Jong Wook Kim, Deep similarity analysis and forecasting of actual outbreak of major infectious diseases using Internet-sourced data, Elsevier Journal of Biomedical Informatics (JBI) (2022)
 
 ## 💬 EDUCATION
-- 	M.S., Business Big Data Analysis, Yonsei Univ., South Korea
+- 	M.S., Business Big Data Analysis, Yonsei University, South Korea
 - 	B.S., Business Administration & Economics (Double Major), Yonsei University, South Korea
 
 ## 💻 PROGRAMMING & OS
