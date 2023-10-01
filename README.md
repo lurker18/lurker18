@@ -2,7 +2,7 @@
 - Email: kim_gunil_94@yonsei.ac.kr    
 
 ## 🔭 CURRENT POSITION
--  Ph.D. Student / Graduate School of Information, Yonsei University, Seoul, South Korea
+-  Ph.D. Student / Graduate School of Information, Yonsei University, Seoul, South Korea [ANDLab](https://andlab.yonsei.ac.kr/)
 
 ## 🌱 RESEARCH INTEREST
 -	 Natural Language Processing
