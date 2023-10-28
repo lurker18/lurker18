@@ -11,10 +11,15 @@
 -	 Efficient AI
 
 ## 📒 PAPERS
+- Gun Il Kim, Eun Ha Neul Ko, Kyung Sung Lee and Beakcheol Jang, Comparative clustering analysis on optimizing sales routing problem with time-constraints, Preprint(2023)
 - Gaspard Harerimana, Gun Il Kim and Beakcheol Jang, HSGA: A Hybrid LSTM-CNN Self-Guided Attention to predict the future diagnosis from discharge narratives, IEEE Access (2023)
 - Gun Il Kim, Sungtae Kim, and Beakcheol Jang, Classification of mathematical test questions using machine learning on datasets of learning management system questions, PloS ONE (2023)
 - Gun Il Kim and Beakcheol Jang, Petroleum price prediction with CNN-LSTM and CNN-GRU using Skip-Connection, Mathematics (2023)
 - Beakcheol Jang, Yeongha Kim, Gun Il Kim, and Jong Wook Kim, Deep similarity analysis and forecasting of actual outbreak of major infectious diseases using Internet-sourced data, Elsevier Journal of Biomedical Informatics (JBI) (2022)
+
+## 🔨 PROJECTS
+- Lotte Chilsung Beverage Organizational Optimization on Sales Routing Construction Project (Pos: Project Manager(PM))
+- ABLETech Collaboration - Development of a customized math curriculum and content provision solution for learners applying AI deep learning (Pos: Project Manager(PM))
 
 ## 💬 EDUCATION
 - 	M.S., Business Big Data Analysis, Yonsei University, South Korea
