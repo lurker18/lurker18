@@ -4,7 +4,7 @@
 ## 🔭 CURRENT POSITION
 -  Ph.D. Student / Graduate School of Information, Yonsei University, Seoul, South Korea [ANDLab](https://andlab.yonsei.ac.kr/)
 
-## 🌱 RESEARCH INTEREST
+## ⭐️ RESEARCH INTEREST
 -	 Natural Language Processing
 -	 Biomedical Text Analysis
 -	 Multimodal AI
