@@ -13,8 +13,8 @@
 ## 📒 PAPERS
 > 2024
 - Beakcheol Jang, Gun Il Kim, Youngha Kim, Jong Wook Kim, Long-Term COVID-19 Outbreak Prediction using Time Difference Data, Elsevier Journal of Biomedical Informatics (JBI), Preprint(2024)
-- Gun Il Kim, Jae Heon Kim, Beakcheol Jang, An Approach on Improving the Recommender System: Predicting Movie Genres Based on Plot Summaries, International Conference on Artificial Intelligence in Inforamtion and Communication, Preprint(2024)
 - Gun Il Kim, Eun Ha Neul Ko, Kyung Sung Lee and Beakcheol Jang, Comparative clustering analysis on optimizing sales routing problem with time-constraints, Preprint(2024)
+- Gun Il Kim, Jae Heon Kim, Beakcheol Jang, An Approach on Improving the Recommender System: Predicting Movie Genres Based on Plot Summaries, International Conference on Artificial Intelligence in Inforamtion and Communication (2024)
 > 2023
 - Gaspard Harerimana, Gun Il Kim and Beakcheol Jang, HSGA: A Hybrid LSTM-CNN Self-Guided Attention to predict the future diagnosis from discharge narratives, IEEE Access (2023)
 - Gun Il Kim, Sungtae Kim, and Beakcheol Jang, Classification of mathematical test questions using machine learning on datasets of learning management system questions, PloS ONE (2023)
