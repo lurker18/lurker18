@@ -12,9 +12,9 @@
 
 ## 📒 PAPERS
 > 2024
-- Gun Il Kim, Sunga Hwang, Challenges of Large Language Models: Long-Context, Compression, and Explainability, (2024) -- Work in Progress
-- Gun Il Kim, Beakcheol Jang, Recent Advances on Biomedical and Healthcare in Task-driven Large Language Model: Methods, Datasets, Applications, IJCAI Survey Track (2024) -- Under Review
-- Sunga Hwang, Gun Il Kim, Beakcheol Jang, Efficient Compressing and Tuning Methods for Large Language Models: A Survey, Preprint(2024) -- Under Review
+- Gun Il Kim, Sunga Hwang, Beakcheol Jang, A Survey of Lightweight Techniques for Large Language Models: Focusing on Attention, Model, and Memory, IEEE Computational Intelligence Magazine -- Preprint(2024)
+- Gun Il Kim, Sunga Hwang, Jong Hyeon Choi, Beakcheol Jang, GREMS: Global Reranking with Multiple Search on Retrieval Augmented Large Language Models, AAAI Conference Main Track (2024) -- Under Review
+- Sunga Hwang, Gun Il Kim, Beakcheol Jang, Efficient Compressing and Tuning Methods for Large Language Models: A Survey, Computing Surveys, Preprint(2024) -- Under Review
 - Beakcheol Jang, Gun Il Kim, Youngha Kim, Jong Wook Kim, Long-Term COVID-19 Outbreak Prediction using Time Difference Data, Elsevier Journal of Biomedical Informatics (JBI) (2024)
 - Gun Il Kim, Eun Ha Neul Ko, Kyung Sung Lee and Beakcheol Jang, Comparative clustering analysis on optimizing sales routing problem with time-constraints, Preprint(2024)
 - Gun Il Kim, Jae Heon Kim, Beakcheol Jang, An Approach on Improving the Recommender System: Predicting Movie Genres Based on Plot Summaries, International Conference on Artificial Intelligence in Inforamtion and Communication (2024)
