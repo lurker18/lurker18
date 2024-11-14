@@ -7,8 +7,8 @@
 ## ⭐️ RESEARCH INTEREST
 -	 Natural Language Processing
 -	 Biomedical Text Analysis
--	 Multimodal AI
 -	 Efficient AI
+-	 Multimodal AI
 
 ## 📒 PAPERS
 > 2024
