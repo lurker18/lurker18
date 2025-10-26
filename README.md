@@ -14,6 +14,7 @@
 > 2025
 - Gun Il Kim, Sunga Hwang, Jong Hyeon Choi, Beakcheol Jang, Global Reranking With Multiple Search on Retrieval Augmented Large Language Models, ACM Transactions on Knowledge Discovery from Data -- Under Revision 1
 - Gun Il Kim, Sunga Hwang, Beakcheol Jang, A Survey of Lightweight Techniques for Large Language Models: Focusing on Attention, Model, and Memory, IEEE Computational Intelligence Magazine -- Under Revision 1
+- Sunga Hwang, Gun Il Kim, JungKyu Shin, Yo Han Lee, Yong Woon Shin, Wooae Ki, Beakcheol Jang, Enhancing 3D Tooth Segmentation Using Curvature-FPS Point Cloud Downsampling, IEEE Access, 2025
 - Gun Il Kim, Jong Wook Kim, Beakcheol Jang, UniRAG: A Unified RAG Framework for Knowledge-Intensive Queries with Decomposition, Break-Down Reasoning, and Iterative Rewriting, EMNLP 2025, November, 2025
 - Gun Il Kim, Sunga Hwang, Beakcheol Jang, Efficient Compressing and Tuning Methods for Large Language Models: A Systematic Literature Review, ACM Computing Surveys, May, 2025
 > 2024
