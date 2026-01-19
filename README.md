@@ -30,6 +30,7 @@
 - Beakcheol Jang, Yeongha Kim, Gun Il Kim, and Jong Wook Kim, Deep similarity analysis and forecasting of actual outbreak of major infectious diseases using Internet-sourced data, Elsevier Journal of Biomedical Informatics (JBI) (2022)
 
 ## 🔨 PROJECTS
+- Hyundai ROTEM - Development of the Railway-Specific Design Platform based on LLM Multi-Agents (Pos: Project Manager(PM))
 - MediForUs Dentistry Hospital - Development of 3D Oral Digital Twin Modeling and AI Portfolio Generation for a Responsive Website Application Focused on Personalized Dental Care Service (Pos: Project Manager(PM))
 - Lotte Chilsung Beverage - Organizational Optimization on Sales Routing Construction Project (Pos: Project Manager(PM))
 - ABLETech Collaboration - Development of a customized math curriculum and content provision solution for learners applying AI deep learning (Pos: Project Manager(PM))
