@@ -12,6 +12,7 @@
 
 ## 📒 PAPERS
 > 2026
+- Gun Il Kim, Jungkyu Shin, Jong Wook Kim, Beakcheol Jang, PROGRAM: Programmatic Retrieval Optimization with Generative Reasoning and Augmented Multi-queries, ACL 2026, July, 2026
 - Gun Il Kim, Sunga Hwang, Jong Hyeon Choi, Beakcheol Jang, Global Reranking With Multiple Search on Retrieval Augmented Large Language Models, ACM Transactions on Knowledge Discovery from Data -- Under Revision 2
 - Gun Il Kim, Sunga Hwang, Beakcheol Jang, A Survey of Lightweight Techniques for Large Language Models: Focusing on Attention, Model, and Memory, IEEE Computational Intelligence Magazine -- Under Revision 2
 > 2025
