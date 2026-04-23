@@ -12,6 +12,7 @@
 
 ## 📒 PAPERS
 > 2026
+- Gun Il Kim, Eun Ha Neul Ko, Kyung Sung Lee and Beakcheol Jang, A two-phase clustered vehicle routing for sales territory design and time-constrained delivery, Annals of Operations Research -- Under Revision
 - Gun Il Kim, Jungkyu Shin, Jong Wook Kim, Beakcheol Jang, PROGRAM: Programmatic Retrieval Optimization with Generative Reasoning and Augmented Multi-queries, ACL 2026, July, 2026
 - Gun Il Kim, Sunga Hwang, Jong Hyeon Choi, Beakcheol Jang, Global Reranking With Multiple Search on Retrieval Augmented Large Language Models, ACM Transactions on Knowledge Discovery from Data -- Under Revision 2
 - Gun Il Kim, Sunga Hwang, Beakcheol Jang, A Survey of Lightweight Techniques for Large Language Models: Focusing on Attention, Model, and Memory, IEEE Computational Intelligence Magazine -- Under Revision 2
@@ -21,7 +22,6 @@
 - Gun Il Kim, Sunga Hwang, Beakcheol Jang, Efficient Compressing and Tuning Methods for Large Language Models: A Systematic Literature Review, ACM Computing Surveys, May, 2025
 > 2024
 - Beakcheol Jang, Gun Il Kim, Youngha Kim, Jong Wook Kim, Long-Term COVID-19 Outbreak Prediction using Time Difference Data, Elsevier Journal of Biomedical Informatics (JBI) (2024)
-- Gun Il Kim, Eun Ha Neul Ko, Kyung Sung Lee and Beakcheol Jang, Comparative clustering analysis on optimizing sales routing problem with time-constraints, Preprint(2024)
 - Gun Il Kim, Jae Heon Kim, Beakcheol Jang, An Approach on Improving the Recommender System: Predicting Movie Genres Based on Plot Summaries, International Conference on Artificial Intelligence in Inforamtion and Communication (2024)
 > 2023
 - Gaspard Harerimana, Gun Il Kim and Beakcheol Jang, HSGA: A Hybrid LSTM-CNN Self-Guided Attention to predict the future diagnosis from discharge narratives, IEEE Access (2023)
