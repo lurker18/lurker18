@@ -6,7 +6,6 @@
 
 ## ⭐️ RESEARCH INTEREST
 -	 Natural Language Processing
--	 Biomedical Text Analysis
 -	 Efficient AI
 -	 Multimodal AI
 
